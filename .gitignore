@@ -1,0 +1,7 @@
+#executabile
+*.exe
+
+#IDE
+.vscode/
+.vs/
+
